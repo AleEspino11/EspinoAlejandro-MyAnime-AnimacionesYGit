@@ -9,7 +9,6 @@ body {
 }
 
 /*Header*/
-
 .cabecera {
     display: flex;
     flex-direction: column;
